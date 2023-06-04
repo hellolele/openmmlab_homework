@@ -58,7 +58,7 @@ python demo/image_demo.py \
         --pred-score-thr 0.3
 ```
 
-![image](mmdetection/outputs/vis/demo_ear.jpg)
+![image](https://github.com/hellolele/openmmlab_homework/blob/main/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/mmdetection/outputs/vis/demo_ear.jpg)
 
 
 
@@ -83,4 +83,4 @@ python demo/topdown_demo_with_mmdet.py \
         --show-kpt-idx
 ```
 
-![image](mmpose/output/demo_ear.jpg)
+![image](https://github.com/hellolele/openmmlab_homework/blob/main/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/mmpose/output/demo_ear.jpg)
