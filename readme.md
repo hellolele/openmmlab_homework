@@ -10,8 +10,8 @@
 在水果数据集上进行微调训练  
 使用 MMPreTrain 的 ImageClassificationInferencer 接口，对网络水果图像，或自己拍摄的水果图像，使用训练好的模型进行分类  
 需提交的验证集评估指标（不能低于 60%）  
-ResNet-50
-
+ResNet-50  
+![输出结果](https://github.com/hellolele/openmmlab_homework/blob/main/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/project/fruit30/orginal_output.jpg?raw=true)
 
 我的训练  
 这次老师没有做数据集的结构化处理，我们需要自己分测试训练和验证，这里图不太多就测试验证同一批图了，具体操作见  
@@ -49,6 +49,6 @@ Out[3]:
 
 In [4]: 
 ```
-
+![输出结果](https://github.com/hellolele/openmmlab_homework/blob/main/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/project/fruit30/output.jpg?raw=true)
 
 预测正确
