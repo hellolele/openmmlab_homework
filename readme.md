@@ -34,5 +34,6 @@
 06/11 21:17:41 - mmengine - INFO - Epoch(test) [13/13]  coco/bbox_mAP: 0.7390  coco/bbox_mAP_50: 0.8370  coco/bbox_mAP_75: 0.8130  coco/bbox_mAP_s: 0.0000  coco/bbox_mAP_m: 0.5410  coco/bbox_mAP_l: 0.8400  data_time: 0.1801  time: 0.1942
 ```
 
-map0.5 为 0.739
-单张测试图片
+map0.5 为 0.739  
+单张测试图片  
+![网络图片测试](https://github.com/hellolele/openmmlab_homework/blob/main/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/output_image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230611213823.png)
