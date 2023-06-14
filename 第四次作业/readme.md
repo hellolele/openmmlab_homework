@@ -1,9 +1,9 @@
 # mmsegmentation 代码作业
 
 ##  模型配置文件
-[pspnet-watermelonDataset_20230612.py]()
+[pspnet-watermelonDataset_20230612.py](https://github.com/hellolele/openmmlab_homework/blob/main/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/pspnet-watermelonDataset_20230612.py)
 ## 训练日志
-[20230614_194209.log]()
+[20230614_194209.log](https://github.com/hellolele/openmmlab_homework/blob/main/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/20230614_194209/20230614_194209.log)
 
 ## 需提交的测试集评估指标（不能低于 baseline 指标的 50% ）：  
 
@@ -30,4 +30,4 @@ mAcc: 28.4600
 
 ## 模型推理效果
 单张测试图片  
-![西瓜图片测试]()
+![西瓜图片测试](https://github.com/hellolele/openmmlab_homework/blob/main/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/watermelon_demo.jpg)
